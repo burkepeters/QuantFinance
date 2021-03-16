@@ -1,5 +1,5 @@
 # QuantFinance
-Various models useful in quantitative finance. 
+Various models useful in quantitative finance for personal use and explanation. 
 
 Attempt to cover basics including: 
 - probabilities
